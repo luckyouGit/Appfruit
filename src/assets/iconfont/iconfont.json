@@ -1,0 +1,37 @@
+{
+  "id": "1923408",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1727258",
+      "name": "01运输中、物流",
+      "font_class": "yunshuzhongwuliu",
+      "unicode": "e883",
+      "unicode_decimal": 59523
+    },
+    {
+      "icon_id": "1727259",
+      "name": "02包裹、发货",
+      "font_class": "baoguofahuo",
+      "unicode": "e884",
+      "unicode_decimal": 59524
+    },
+    {
+      "icon_id": "1727351",
+      "name": "19结算",
+      "font_class": "jiesuan",
+      "unicode": "e896",
+      "unicode_decimal": 59542
+    },
+    {
+      "icon_id": "15722081",
+      "name": "cart_empty",
+      "font_class": "cart_empty",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
